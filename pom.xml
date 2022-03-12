@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>in.exemple</groupId>
 	<artifactId>exemple</artifactId>
-	<version>2.0-RELEASE</version>
+	<version>2.0</version>
 	<packaging>war</packaging>
 	<name>exemple</name>
 	<description>Exemple DevOps project for Spring Boot</description>
